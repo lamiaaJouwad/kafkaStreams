@@ -1,0 +1,6 @@
+spring:
+  kafka:
+    streams:
+      application-id: springcloud-kafka
+      state:
+        dir: D:\Schoolwork\springcloud-kafka
